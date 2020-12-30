@@ -1,0 +1,11 @@
+[package]
+name = "s1"
+version = "0.1.0"
+authors = ["SD <ktion23@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+geo-booleanop = "0.3.2"
+geo = "0.14"
